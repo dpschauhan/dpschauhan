@@ -1,2 +1,2 @@
 # Hi there!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpschauhan&show_icons=true&theme=transparent)
