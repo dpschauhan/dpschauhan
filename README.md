@@ -6,7 +6,7 @@
  <div align="center">
         <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
         <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-        <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/twitter/follow/:user" /></a>
+        <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/twitter/follow/" /></a>
         <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
         <a href="https://t.me/MrCoderIN"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
     </div>
