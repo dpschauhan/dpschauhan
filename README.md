@@ -13,4 +13,4 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=dpschauhan&color=green)
+![](https://komarev.com/ghpvc/?username=dpschauhan&color=lightgrey)
