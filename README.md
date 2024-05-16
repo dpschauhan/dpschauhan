@@ -1,5 +1,5 @@
 # Hi there!
-[![](https://raw.githubusercontent.com/adamalston/dpschauhan/master/person.mp4)](https://www.linkedin.com/in/divyansh-chauhan-02648221b/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/adamalston/dpschauhan/person.mp4)](https://www.linkedin.com/in/divyansh-chauhan-02648221b/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
