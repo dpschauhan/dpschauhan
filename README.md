@@ -1,6 +1,6 @@
 <div  align="center">
   <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/">
-    <img src="https://github.com/dpschauhan/dpschauhan/blob/main/divyansh.gif"/>
+    <img src="https://github.com/dpschauhan/dpschauhan/blob/main/divyansh.gif" height="200"/>
   </a>
 </div>
 ### Languages
