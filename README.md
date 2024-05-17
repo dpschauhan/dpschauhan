@@ -28,14 +28,13 @@
 ![](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Java](https://img.shields.io/badge/JAVA-00599C.svg?style=for-the-badge&logo=java&logoColor=Red)
+![Java](https://img.shields.io/badge/JAVA-0599C.svg?style=for-the-badge&logo=java&logoColor=Red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
-![Azure]("https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
