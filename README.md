@@ -4,10 +4,10 @@
   </a>
 </div>
  <div align="center">
-        <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-        <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/twitter/follow/:Divyansh" /></a>
-        <a href="https://discord.com/channels/divyanshchauhan3384"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+        <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+        <a href="https://discord.com/channels/divyanshchauhan3384"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
     </div>
     <div align="left">
         <br />
