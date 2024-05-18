@@ -16,7 +16,12 @@
             </strong>
         </p>
         <ul>
-            <li></li>
+            <li>🎇 I'm diving into AI and Deep Learning right now.</li>
+            <li>🎆 I’m currently learning: Python, Java, Desgining, React JS, Flutter, Cloud.</li>
+            <li>👋 Connect with me on the following platforms: 🔗LinkedIn, Catch me at anywhere, X and Follow me right away here.</li>
+            <li>🗣 Ask me about: Data Science, Web Development, API Developments, Competetive Programming, Database, Machine Learning and Artificial Intelligence (Deep Learing).</li>
+          <li>🤔 I’m currently open for: A new Internship opportunity and Open Source Projects and if like my work Hire me.</li>
+          <li>🖋 Check out my projects In my repository ( website coming Soon )</li>
         </ul>
         <br/>
     </div>
