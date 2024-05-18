@@ -7,6 +7,7 @@
         <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
         <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
         <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/twitter/follow/:Divyansh" /></a>
+        <a href="https://discord.com/channels/divyanshchauhan3384"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
     </div>
     <div align="left">
         <br />
