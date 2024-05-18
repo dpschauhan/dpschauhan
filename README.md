@@ -8,18 +8,17 @@
         <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
         <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/twitter/follow/:Divyansh" /></a>
     </div>
-    <div align="center">
+    <div align="left">
         <br />
         <p>
             <strong>
                 I'm an Enginner from India, passionate about making ML/ open-source projects more accessible, making websites for the future, creating technology to elevate people, and building Models of Machine Learning/ Deep Learning.
             </strong>
         </p>
-        <h1></h1>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Android, Python, Java, Desgining, React JS.</li>
+            <li></li>
         </ul>
-        <br />
+        <br/>
     </div>
 ### Languages
 
