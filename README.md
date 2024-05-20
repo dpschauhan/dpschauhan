@@ -86,7 +86,7 @@
 
 ### Coding Websites
 
-![https://leetcode.com/u/dpschauhan23nov/](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)(https://leetcode.com/u/dpschauhan23nov/)
+![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)("https://leetcode.com/u/dpschauhan23nov/")
 
 ### Cybersecurity Projects
 
