@@ -68,6 +68,13 @@
 ![]()
 ![]()
 
+### Dev Stack
+
+![]()
+![]()
+![]()
+![]()
+
 ### Tools
 
 ![](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
@@ -84,9 +91,6 @@
 
 ### Full Stack Projects
 
-### Coding Websites
-
-![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)("https://leetcode.com/u/dpschauhan23nov/")
 
 ### Cybersecurity Projects
 
