@@ -9,6 +9,7 @@
         <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
         <a href="https://discord.com/channels/divyanshchauhan3384"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
         <a href="https://www.kaggle.com/divyanshpratapsinghc"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+        <a href="https://www.instagram.com/clandestine_punk?igsh=bWgyMHRxbjIxNGxo"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     </div>
     <div align="left">
         <br />
