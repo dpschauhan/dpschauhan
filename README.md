@@ -60,6 +60,7 @@
 ![](https://img.shields.io/badge/OSGeo-4CB05B.svg?style=for-the-badge&logo=OSGeo&logoColor=white)
 ![](https://img.shields.io/badge/GDAL-5CAE58.svg?style=for-the-badge&logo=GDAL&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-09009B.svg?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-19009B.svg?style=for-the-badge&logoColor=white)
 ![]()
 
 ### Databases
