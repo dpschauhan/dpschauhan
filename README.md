@@ -7,7 +7,7 @@
         <a href="https://www.hackerrank.com/profile/2101641540035_DS"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
         <a href="https://leetcode.com/u/dpschauhan23nov/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/divyansh-chauhan-02648221b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-        <a href="mailto:dpschauhan23nov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="mailto:divyanshpratapsingh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://twitter.com/dpschauhan23"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
         <a href="https://discord.com/channels/divyanshchauhan3384"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
         <a href="https://www.kaggle.com/divyanshpratapsinghc"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
